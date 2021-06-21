@@ -1,0 +1,347 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:2:1-66:12
+MERGED from [:grpc] /Users/meetshah97/Downloads/GAssist_companion/grpc/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [gun0912.ted:tedpermission:2.2.2] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7605b4ed70b0f84d55f4fed2ddbf36fd/jetified-tedpermission-2.2.2/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0-alpha06] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/9e8312b32186aeedce745fd2feb906e7/navigation-ui-2.1.0-alpha06/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/9ce4a759f1079a730afce8c5f490f792/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/1cbb2e063b97a824708a961d96ad566b/appcompat-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/f6bd6c9b6d556bd1fa90278dc85400ba/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-fragment:2.1.0-alpha06] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/a462294f6cda08958de095345e5daa0b/navigation-fragment-2.1.0-alpha06/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/fc89bcc0dfff3b2c50962a033dee4422/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/d0e79cd826de9fb8ce0ce6aa188c8631/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/941a57c0df02046a649d463e2e1ea57e/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/66db634ba0f26c18d1352f11579d3233/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/cb2b7dbdecc1fe810764b603f3b31f89/fragment-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/21f0eb529713611ed4cb630faf6316a0/jetified-appcompat-resources-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7f1cc4411bec647042dee122fcfc771c/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/9f54fe045be3849787f954a93956746f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/92cf8728f3f2214ad5282842260d9629/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/00b0e18277b1b52f8d1c658b3e2f8248/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/158035b922fc3124a79a40986cbc895e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/75371bd1b2881c51b3dda8aaf4dff054/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.1.0-alpha06] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/444e559ee599a4c6460d302bb10e4427/navigation-runtime-2.1.0-alpha06/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/465f0026b2b39f64d5526535253d7bd5/jetified-activity-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/e78f2fe2e11e7b9daa5f1d6563fff71a/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/a6c36ec693846117fca10b719d05b173/vectordrawable-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/ae73bf59e971082ce453e11daccc058a/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/906f6bfc95b7e77dd12193bea1873db1/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/4cccad50fa8cfbe2f541ebced53250e1/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.1.0-alpha06] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/3c23700feec407ff6c503be60b146f6c/navigation-common-2.1.0-alpha06/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/76e15be19e75b9b76370cf28b9bd9a64/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/886c916290cdb9dc7f2bef9dc5baa361/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7370272547b9039960e84a6e9c46040a/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/ecac78d4728c2f49f5ea0569ff66fa98/core-1.1.0-rc01/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/cfc04260756e4828b2a7cf9357c4d6f2/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/ae1d8ce8525711368e0505aa3fcb1a1d/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/dbcb2758c3e4d11b7d7587f2898f3f2a/lifecycle-viewmodel-2.1.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/e23a7ec3b6baa89c590d9ce7eb335fde/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/186b860c6f1f74b1f1ec6130f560a676/lifecycle-runtime-2.1.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/efce9e4f61008dd838cba721417cb5df/jetified-savedstate-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/2dbef76b71c63094eb2e4d64564badb4/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/768bc92555a7e8ccc67ab57121d463c8/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/6fdead04f152d1f762e067c125710caf/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/91a096733f280d7ce8cfb9e7325a28d7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/8d56144b996e3d12ed227fcc9f406ef3/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/66e0988c576921fb3a695dcabfa37029/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/63e91fb0e8de03c3717e5b39d6fc6c68/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.TutorialsAndroid:FilePicker:v4.0.19] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/54ff209a405ab6ef9fa5a111b248f72d/jetified-FilePicker-v4.0.19/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/5fe9aeeb538633a131d1ae22360e0ac6/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+		INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:2:1-66:12
+		INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:2:1-66:12
+		INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:10:5-74
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:10:22-71
+uses-permission#com.samsung.accessory.permission.ACCESSORY_FRAMEWORK
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:11:5-92
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:11:22-89
+uses-permission#com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:12:5-117
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:12:22-114
+uses-permission#com.samsung.wmanager.ENABLE_NOTIFICATION
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:13:22-77
+uses-permission#com.samsung.WATCH_APP_TYPE.Companion
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:16:5-80
+MERGED from [com.github.TutorialsAndroid:FilePicker:v4.0.19] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/54ff209a405ab6ef9fa5a111b248f72d/jetified-FilePicker-v4.0.19/AndroidManifest.xml:11:5-80
+MERGED from [com.github.TutorialsAndroid:FilePicker:v4.0.19] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/54ff209a405ab6ef9fa5a111b248f72d/jetified-FilePicker-v4.0.19/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:16:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:18:22-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:19:5-77
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:19:22-74
+application
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:21:5-64:19
+MERGED from [:grpc] /Users/meetshah97/Downloads/GAssist_companion/grpc/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20
+MERGED from [:grpc] /Users/meetshah97/Downloads/GAssist_companion/grpc/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20
+MERGED from [gun0912.ted:tedpermission:2.2.2] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7605b4ed70b0f84d55f4fed2ddbf36fd/jetified-tedpermission-2.2.2/AndroidManifest.xml:9:5-15:19
+MERGED from [gun0912.ted:tedpermission:2.2.2] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7605b4ed70b0f84d55f4fed2ddbf36fd/jetified-tedpermission-2.2.2/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/9ce4a759f1079a730afce8c5f490f792/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/9ce4a759f1079a730afce8c5f490f792/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/f6bd6c9b6d556bd1fa90278dc85400ba/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/f6bd6c9b6d556bd1fa90278dc85400ba/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/fc89bcc0dfff3b2c50962a033dee4422/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/fc89bcc0dfff3b2c50962a033dee4422/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/d0e79cd826de9fb8ce0ce6aa188c8631/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/d0e79cd826de9fb8ce0ce6aa188c8631/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/941a57c0df02046a649d463e2e1ea57e/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/941a57c0df02046a649d463e2e1ea57e/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/66db634ba0f26c18d1352f11579d3233/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/66db634ba0f26c18d1352f11579d3233/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/ecac78d4728c2f49f5ea0569ff66fa98/core-1.1.0-rc01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/ecac78d4728c2f49f5ea0569ff66fa98/core-1.1.0-rc01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/ae1d8ce8525711368e0505aa3fcb1a1d/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/ae1d8ce8525711368e0505aa3fcb1a1d/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/5fe9aeeb538633a131d1ae22360e0ac6/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/5fe9aeeb538633a131d1ae22360e0ac6/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/ecac78d4728c2f49f5ea0569ff66fa98/core-1.1.0-rc01/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:24:9-41
+	android:icon
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:23:9-42
+	android:allowBackup
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:25:9-48
+activity#com.cybernetic87.GAssist.MainActivity
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:26:9-42:20
+	android:screenOrientation
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:27:13-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:31:27-74
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:host:gassist+data:scheme:cybernetic87
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:33:13-41:29
+action#android.intent.action.VIEW
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:37:27-73
+data
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:38:17-40:53
+	android:host
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:39:21-43
+	android:scheme
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:40:21-50
+service#com.samsung.android.sdk.accessory.SAJobService
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:44:9-46:72
+	android:permission
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:46:13-69
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:45:13-74
+service#com.cybernetic87.GAssist.ProviderService
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:48:9-76
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:48:18-73
+receiver#com.samsung.android.sdk.accessory.RegisterUponInstallReceiver
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:50:9-54:20
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:50:19-95
+intent-filter#action:name:com.samsung.accessory.action.REGISTER_AGENT
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:51:13-53:29
+action#com.samsung.accessory.action.REGISTER_AGENT
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:52:17-86
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:52:25-83
+receiver#com.samsung.android.sdk.accessory.ServiceConnectionIndicationBroadcastReceiver
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:55:9-59:20
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:55:19-112
+intent-filter#action:name:com.samsung.accessory.action.SERVICE_CONNECTION_REQUESTED
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:56:13-58:29
+action#com.samsung.accessory.action.SERVICE_CONNECTION_REQUESTED
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:57:17-100
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:57:25-97
+meta-data#AccessoryServicesLocation
+ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:61:9-63:62
+	android:value
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:63:13-59
+	android:name
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:62:13-53
+uses-sdk
+INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+MERGED from [:grpc] /Users/meetshah97/Downloads/GAssist_companion/grpc/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:grpc] /Users/meetshah97/Downloads/GAssist_companion/grpc/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [gun0912.ted:tedpermission:2.2.2] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7605b4ed70b0f84d55f4fed2ddbf36fd/jetified-tedpermission-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [gun0912.ted:tedpermission:2.2.2] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7605b4ed70b0f84d55f4fed2ddbf36fd/jetified-tedpermission-2.2.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0-alpha06] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/9e8312b32186aeedce745fd2feb906e7/navigation-ui-2.1.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0-alpha06] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/9e8312b32186aeedce745fd2feb906e7/navigation-ui-2.1.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/9ce4a759f1079a730afce8c5f490f792/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/9ce4a759f1079a730afce8c5f490f792/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/1cbb2e063b97a824708a961d96ad566b/appcompat-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/1cbb2e063b97a824708a961d96ad566b/appcompat-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/f6bd6c9b6d556bd1fa90278dc85400ba/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/f6bd6c9b6d556bd1fa90278dc85400ba/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.1.0-alpha06] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/a462294f6cda08958de095345e5daa0b/navigation-fragment-2.1.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0-alpha06] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/a462294f6cda08958de095345e5daa0b/navigation-fragment-2.1.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/fc89bcc0dfff3b2c50962a033dee4422/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/fc89bcc0dfff3b2c50962a033dee4422/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/d0e79cd826de9fb8ce0ce6aa188c8631/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/d0e79cd826de9fb8ce0ce6aa188c8631/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/941a57c0df02046a649d463e2e1ea57e/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/941a57c0df02046a649d463e2e1ea57e/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/66db634ba0f26c18d1352f11579d3233/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/66db634ba0f26c18d1352f11579d3233/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/cb2b7dbdecc1fe810764b603f3b31f89/fragment-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/cb2b7dbdecc1fe810764b603f3b31f89/fragment-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/21f0eb529713611ed4cb630faf6316a0/jetified-appcompat-resources-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/21f0eb529713611ed4cb630faf6316a0/jetified-appcompat-resources-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7f1cc4411bec647042dee122fcfc771c/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7f1cc4411bec647042dee122fcfc771c/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/9f54fe045be3849787f954a93956746f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/9f54fe045be3849787f954a93956746f/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/92cf8728f3f2214ad5282842260d9629/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/92cf8728f3f2214ad5282842260d9629/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/00b0e18277b1b52f8d1c658b3e2f8248/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/00b0e18277b1b52f8d1c658b3e2f8248/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/158035b922fc3124a79a40986cbc895e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/158035b922fc3124a79a40986cbc895e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/75371bd1b2881c51b3dda8aaf4dff054/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/75371bd1b2881c51b3dda8aaf4dff054/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.1.0-alpha06] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/444e559ee599a4c6460d302bb10e4427/navigation-runtime-2.1.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0-alpha06] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/444e559ee599a4c6460d302bb10e4427/navigation-runtime-2.1.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/465f0026b2b39f64d5526535253d7bd5/jetified-activity-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/465f0026b2b39f64d5526535253d7bd5/jetified-activity-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/e78f2fe2e11e7b9daa5f1d6563fff71a/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/e78f2fe2e11e7b9daa5f1d6563fff71a/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/a6c36ec693846117fca10b719d05b173/vectordrawable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/a6c36ec693846117fca10b719d05b173/vectordrawable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/ae73bf59e971082ce453e11daccc058a/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/ae73bf59e971082ce453e11daccc058a/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/906f6bfc95b7e77dd12193bea1873db1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/906f6bfc95b7e77dd12193bea1873db1/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/4cccad50fa8cfbe2f541ebced53250e1/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/4cccad50fa8cfbe2f541ebced53250e1/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.1.0-alpha06] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/3c23700feec407ff6c503be60b146f6c/navigation-common-2.1.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0-alpha06] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/3c23700feec407ff6c503be60b146f6c/navigation-common-2.1.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/76e15be19e75b9b76370cf28b9bd9a64/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/76e15be19e75b9b76370cf28b9bd9a64/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/886c916290cdb9dc7f2bef9dc5baa361/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/886c916290cdb9dc7f2bef9dc5baa361/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7370272547b9039960e84a6e9c46040a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7370272547b9039960e84a6e9c46040a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/ecac78d4728c2f49f5ea0569ff66fa98/core-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/ecac78d4728c2f49f5ea0569ff66fa98/core-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/cfc04260756e4828b2a7cf9357c4d6f2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/cfc04260756e4828b2a7cf9357c4d6f2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/ae1d8ce8525711368e0505aa3fcb1a1d/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/ae1d8ce8525711368e0505aa3fcb1a1d/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/dbcb2758c3e4d11b7d7587f2898f3f2a/lifecycle-viewmodel-2.1.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/dbcb2758c3e4d11b7d7587f2898f3f2a/lifecycle-viewmodel-2.1.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/e23a7ec3b6baa89c590d9ce7eb335fde/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/e23a7ec3b6baa89c590d9ce7eb335fde/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/186b860c6f1f74b1f1ec6130f560a676/lifecycle-runtime-2.1.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/186b860c6f1f74b1f1ec6130f560a676/lifecycle-runtime-2.1.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/efce9e4f61008dd838cba721417cb5df/jetified-savedstate-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/efce9e4f61008dd838cba721417cb5df/jetified-savedstate-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/2dbef76b71c63094eb2e4d64564badb4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/2dbef76b71c63094eb2e4d64564badb4/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/768bc92555a7e8ccc67ab57121d463c8/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/768bc92555a7e8ccc67ab57121d463c8/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/6fdead04f152d1f762e067c125710caf/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/6fdead04f152d1f762e067c125710caf/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/91a096733f280d7ce8cfb9e7325a28d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/91a096733f280d7ce8cfb9e7325a28d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/8d56144b996e3d12ed227fcc9f406ef3/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/8d56144b996e3d12ed227fcc9f406ef3/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/66e0988c576921fb3a695dcabfa37029/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/66e0988c576921fb3a695dcabfa37029/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/63e91fb0e8de03c3717e5b39d6fc6c68/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/63e91fb0e8de03c3717e5b39d6fc6c68/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.TutorialsAndroid:FilePicker:v4.0.19] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/54ff209a405ab6ef9fa5a111b248f72d/jetified-FilePicker-v4.0.19/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.TutorialsAndroid:FilePicker:v4.0.19] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/54ff209a405ab6ef9fa5a111b248f72d/jetified-FilePicker-v4.0.19/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/5fe9aeeb538633a131d1ae22360e0ac6/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/5fe9aeeb538633a131d1ae22360e0ac6/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+		INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+		ADDED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+		INJECTED from /Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+activity#com.gun0912.tedpermission.TedPermissionActivity
+ADDED from [gun0912.ted:tedpermission:2.2.2] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7605b4ed70b0f84d55f4fed2ddbf36fd/jetified-tedpermission-2.2.2/AndroidManifest.xml:10:9-14:67
+	android:screenOrientation
+		ADDED from [gun0912.ted:tedpermission:2.2.2] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7605b4ed70b0f84d55f4fed2ddbf36fd/jetified-tedpermission-2.2.2/AndroidManifest.xml:13:13-52
+	android:configChanges
+		ADDED from [gun0912.ted:tedpermission:2.2.2] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7605b4ed70b0f84d55f4fed2ddbf36fd/jetified-tedpermission-2.2.2/AndroidManifest.xml:12:13-144
+	android:theme
+		ADDED from [gun0912.ted:tedpermission:2.2.2] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7605b4ed70b0f84d55f4fed2ddbf36fd/jetified-tedpermission-2.2.2/AndroidManifest.xml:14:13-64
+	android:name
+		ADDED from [gun0912.ted:tedpermission:2.2.2] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7605b4ed70b0f84d55f4fed2ddbf36fd/jetified-tedpermission-2.2.2/AndroidManifest.xml:11:13-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/fc89bcc0dfff3b2c50962a033dee4422/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/fc89bcc0dfff3b2c50962a033dee4422/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/fc89bcc0dfff3b2c50962a033dee4422/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/fc89bcc0dfff3b2c50962a033dee4422/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/66db634ba0f26c18d1352f11579d3233/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/66db634ba0f26c18d1352f11579d3233/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/66db634ba0f26c18d1352f11579d3233/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

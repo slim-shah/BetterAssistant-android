@@ -1,0 +1,4 @@
+com/cybernetic87/GAssist/AssistantTest.java
+ com.cybernetic87.GAssist.AssistantTest
+ com.cybernetic87.GAssist.AssistantTest$1
+ com.cybernetic87.GAssist.AssistantTest$2

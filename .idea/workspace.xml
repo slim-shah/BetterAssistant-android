@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_3" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="info" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="grpc" />
+      <module name="GAssist.Provider" />
+    </loaded-modules>
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <library-updates>
+      <library-update>
+        <group-id>org.apache.commons</group-id>
+        <name>commons-io</name>
+        <version>1.3.2</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>support-annotations</name>
+        <version>28.0.0</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.android.gms</group-id>
+        <name>play-services-location</name>
+        <version>17.0.0</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>org.msgpack</group-id>
+        <name>msgpack-core</name>
+        <version>0.8.17</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.android.support</group-id>
+        <name>appcompat-v7</name>
+        <version>28.0.0</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.api-client</group-id>
+        <name>google-api-client</name>
+        <version>1.30.1</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.google.auth</group-id>
+        <name>google-auth-library-oauth2-http</name>
+        <version>0.16.1</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>io.grpc</group-id>
+        <name>grpc-okhttp</name>
+        <version>1.21.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>javax.annotation</group-id>
+        <name>javax.annotation-api</name>
+        <version>1.3.2</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>io.grpc</group-id>
+        <name>grpc-stub</name>
+        <version>1.21.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>io.grpc</group-id>
+        <name>grpc-auth</name>
+        <version>1.21.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+      <library-update>
+        <group-id>io.grpc</group-id>
+        <name>grpc-protobuf-lite</name>
+        <version>1.21.0</version>
+        <repository>JCenter</repository>
+      </library-update>
+    </library-updates>
+    <last-search-timestamp>1561160538649</last-search-timestamp>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63d82c24-3aae-4344-a004-b37b02f1fbe6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app_SAAgentV2">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app_SAAgent">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/grpc">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/GAssist.Provider">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="navigationResourceFile" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="$USER_HOME$/Desktop/Android_Signing/keystore" />
+    <option name="KEY_ALIAS" value="release" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1o8g8iSSIb6TLhuV3p5PWxYixXK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="GAssist_companion.GAssist.Provider" />
+    <property name="DEBUGGABLE_DEVICE" value="samsung-sm_g991u-R5CR206QFSX" />
+    <property name="DEBUGGABLE_PROCESS" value="com.cybernetic87.GAssist" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="R5CR206QFSX" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-05-03T19:45:09.660Z" />
+    <property name="ExportApk.ApkPath" value="$USER_HOME$/Desktop/Android_Signing" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.recentlyUsedThemes" value="Base.Theme.MaterialComponents.Bridge&#10;Platform.MaterialComponents.Dialog&#10;Theme.MaterialComponents.Dialog.Alert&#10;Theme.MaterialComponents.Dialog&#10;Base.V26.Theme.AppCompat" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="device.picker.selection" value="R58M24P5WHK" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/GAssist.Provider/src/test/java/com/cybernetic87/GAssist" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/GAssist.Provider/src/main/res/raw" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.19678217" />
+    <property name="recommended.upgrade.last.time.stamp" value="1619735998885" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="LAST_EDITED_SIGNING_CONFIG" value="release" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.cybernetic87.GAssist" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/GAssist.Provider/src/main/assets" />
+      <recent name="$PROJECT_DIR$/GAssist.Provider/src/main/res/raw" />
+      <recent name="C:\Users\cyber\HelloAccessory_.NET\HelloAccessory\Provider(Tizen)_Consumer(Android)\Consumer\GAssist.Provider\src\main\res\mipmap" />
+      <recent name="C:\Users\cyber\HelloAccessory_.NET\HelloAccessory\Provider(Tizen)_Consumer(Android)\Consumer\app_SAAgentV2\src\main\res\values" />
+      <recent name="C:\Users\cyber\HelloAccessory_.NET\HelloAccessory\Provider(Tizen)_Consumer(Android)\Consumer\app_SAAgentV2\src\main\res\layout" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cybernetic87.GAssist.Fragments" />
+      <recent name="com.cybernetic87.GAssist" />
+      <recent name="com.cybernetic87" />
+      <recent name="com.samsung.android.sdk.accessory.example.helloaccessory.GAssist" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cybernetic87.Gassist" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/GAssist.Provider/src/main/res/raw" />
+      <recent name="C:\Users\cyber\repos_new\Consumer\GAssist.Provider" />
+      <recent name="C:\Users\cyber\repos_new\Consumer\GAssist.Provider\src\main\res\mipmap" />
+      <recent name="C:\Users\cyber\HelloAccessory_.NET\HelloAccessory\Provider(Tizen)_Consumer(Android)\Consumer" />
+      <recent name="C:\Users\cyber\HelloAccessory_.NET\HelloAccessory\Provider(Tizen)_Consumer(Android)\Consumer\app\src\main\res" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cybernetic87.GAssist" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.GAssist.Provider">
+    <configuration name="All in grpc" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GAssist_companion.grpc" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssistantTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GAssist_companion.GAssist.Provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybernetic87.GAssist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybernetic87.GAssist" />
+      <option name="MAIN_CLASS_NAME" value="com.cybernetic87.GAssist.AssistantTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GAssist.Provider" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="GAssist_companion.GAssist.Provider" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="GAssist.Assistant" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app_SAAgent" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app_SAAgent" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app_SAAgentV2" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="GAssist.Provider" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssistantTest" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="GAssist_companion.GAssist.Provider" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="com.cybernetic87.Gassist.AssistantTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssistantTest1" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="GAssist_companion.GAssist.Provider" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="com.cybernetic87.Gassist.AssistantTest1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Consumer [tasks]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tasks" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Android App.app_SAAgent" />
+      <item itemvalue="Android App.app_SAAgentV2" />
+      <item itemvalue="Android App.GAssist.Provider" />
+      <item itemvalue="Android Instrumented Tests.AssistantTest" />
+      <item itemvalue="Android Instrumented Tests.AssistantTest1" />
+      <item itemvalue="Android JUnit.All in grpc" />
+      <item itemvalue="Android JUnit.AssistantTest" />
+      <item itemvalue="Gradle.Consumer [tasks]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android Instrumented Tests.AssistantTest1" />
+        <item itemvalue="Android Instrumented Tests.AssistantTest" />
+        <item itemvalue="Android JUnit.AssistantTest" />
+        <item itemvalue="Android JUnit.All in grpc" />
+        <item itemvalue="Gradle.Consumer [tasks]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63d82c24-3aae-4344-a004-b37b02f1fbe6" name="Default Changelist" comment="" />
+      <created>1556694129514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556694129514</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2151" y="215" key="#com.intellij.ide.util.MemberChooser" timestamp="1624300988780">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1619038038048" />
+    <state x="2151" y="196" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1620069935917" />
+    <state x="533" y="170" key="#com.intellij.ide.util.MemberChooser/0.23.1440.808/1440.23.1920.1057@0.23.1440.808" timestamp="1623358951976" />
+    <state x="2151" y="215" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812/1440.23.1920.1057@1440.23.1920.1057" timestamp="1624300988780" />
+    <state x="100" y="97" width="1240" height="754" key="AVDManager" timestamp="1618868185812">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="97" width="1240" height="754" key="AVDManager/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1618868185812" />
+    <state x="100" y="112" width="1240" height="688" key="AVDManager/0.23.1440.822@0.23.1440.822" timestamp="1616707231448" />
+    <state x="308" y="188" key="AndroidCreateResourceDirectoryDialog" timestamp="1620322680049">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="308" y="188" key="AndroidCreateResourceDirectoryDialog/0.23.1440.806/1440.23.1920.1057@0.23.1440.806" timestamp="1620322680049" />
+    <state x="489" y="180" key="AndroidProcessChooserDialog" timestamp="1624028729620">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="489" y="179" key="AndroidProcessChooserDialog/0.23.1440.808@0.23.1440.808" timestamp="1623363182046" />
+    <state x="489" y="180" key="AndroidProcessChooserDialog/0.23.1440.811@0.23.1440.811" timestamp="1624028729620" />
+    <state x="2092" y="228" key="AndroidProcessChooserDialog/0.23.1440.816/1440.23.1920.1057@1440.23.1920.1057" timestamp="1623870665049" />
+    <state width="1398" height="385" key="GridCell.Tab.0.bottom" timestamp="1624031386201">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1398" height="393" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1620321665912" />
+    <state width="1398" height="327" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1620071617935" />
+    <state width="1398" height="328" key="GridCell.Tab.0.bottom/0.23.1440.806/1440.23.1920.1057@0.23.1440.806" timestamp="1620322475463" />
+    <state width="1398" height="255" key="GridCell.Tab.0.bottom/0.23.1440.808/1440.23.1920.1057@0.23.1440.808" timestamp="1620339655688" />
+    <state width="1398" height="255" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1623363487592" />
+    <state width="1398" height="385" key="GridCell.Tab.0.bottom/0.23.1440.811/1440.23.1920.1057@0.23.1440.811" timestamp="1624028901559" />
+    <state width="1398" height="382" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1624028858683" />
+    <state width="1398" height="348" key="GridCell.Tab.0.bottom/0.23.1440.812/1440.23.1920.1057@0.23.1440.812" timestamp="1620153002825" />
+    <state width="1398" height="385" key="GridCell.Tab.0.bottom/0.23.1440.814/1440.23.1920.1057@0.23.1440.814" timestamp="1624031386201" />
+    <state width="1398" height="283" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1619893706412" />
+    <state width="1398" height="247" key="GridCell.Tab.0.bottom/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1620079161910" />
+    <state width="1878" height="354" key="GridCell.Tab.0.bottom/0.23.1440.816/1440.23.1920.1057@1440.23.1920.1057" timestamp="1623871031126" />
+    <state width="1878" height="348" key="GridCell.Tab.0.bottom/0.23.1440.822/1440.23.1920.1057@1440.23.1920.1057" timestamp="1620231423613" />
+    <state width="1878" height="523" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1624028126312" />
+    <state width="1398" height="357" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1620149507858" />
+    <state width="1878" height="555" key="GridCell.Tab.0.bottom/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1620234641916" />
+    <state width="1398" height="385" key="GridCell.Tab.0.center" timestamp="1624031386199">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1398" height="393" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1620321665910" />
+    <state width="1398" height="327" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1620071617932" />
+    <state width="1398" height="328" key="GridCell.Tab.0.center/0.23.1440.806/1440.23.1920.1057@0.23.1440.806" timestamp="1620322475463" />
+    <state width="1398" height="255" key="GridCell.Tab.0.center/0.23.1440.808/1440.23.1920.1057@0.23.1440.808" timestamp="1620339655687" />
+    <state width="1398" height="255" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1623363487591" />
+    <state width="1398" height="385" key="GridCell.Tab.0.center/0.23.1440.811/1440.23.1920.1057@0.23.1440.811" timestamp="1624028901559" />
+    <state width="1398" height="382" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1624028858682" />
+    <state width="1398" height="348" key="GridCell.Tab.0.center/0.23.1440.812/1440.23.1920.1057@0.23.1440.812" timestamp="1620153002824" />
+    <state width="1398" height="385" key="GridCell.Tab.0.center/0.23.1440.814/1440.23.1920.1057@0.23.1440.814" timestamp="1624031386199" />
+    <state width="1398" height="283" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1619893706412" />
+    <state width="1398" height="247" key="GridCell.Tab.0.center/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1620079161908" />
+    <state width="1878" height="354" key="GridCell.Tab.0.center/0.23.1440.816/1440.23.1920.1057@1440.23.1920.1057" timestamp="1623871031125" />
+    <state width="1878" height="348" key="GridCell.Tab.0.center/0.23.1440.822/1440.23.1920.1057@1440.23.1920.1057" timestamp="1620231423612" />
+    <state width="1878" height="523" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1624028126311" />
+    <state width="1398" height="357" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1620149507858" />
+    <state width="1878" height="555" key="GridCell.Tab.0.center/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1620234641916" />
+    <state width="1398" height="385" key="GridCell.Tab.0.left" timestamp="1624031386198">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1398" height="393" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1620321665908" />
+    <state width="1398" height="327" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1620071617931" />
+    <state width="1398" height="328" key="GridCell.Tab.0.left/0.23.1440.806/1440.23.1920.1057@0.23.1440.806" timestamp="1620322475462" />
+    <state width="1398" height="255" key="GridCell.Tab.0.left/0.23.1440.808/1440.23.1920.1057@0.23.1440.808" timestamp="1620339655685" />
+    <state width="1398" height="255" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1623363487591" />
+    <state width="1398" height="385" key="GridCell.Tab.0.left/0.23.1440.811/1440.23.1920.1057@0.23.1440.811" timestamp="1624028901559" />
+    <state width="1398" height="382" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1624028858681" />
+    <state width="1398" height="348" key="GridCell.Tab.0.left/0.23.1440.812/1440.23.1920.1057@0.23.1440.812" timestamp="1620153002821" />
+    <state width="1398" height="385" key="GridCell.Tab.0.left/0.23.1440.814/1440.23.1920.1057@0.23.1440.814" timestamp="1624031386198" />
+    <state width="1398" height="283" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1619893706411" />
+    <state width="1398" height="247" key="GridCell.Tab.0.left/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1620079161907" />
+    <state width="1878" height="354" key="GridCell.Tab.0.left/0.23.1440.816/1440.23.1920.1057@1440.23.1920.1057" timestamp="1623871031125" />
+    <state width="1878" height="348" key="GridCell.Tab.0.left/0.23.1440.822/1440.23.1920.1057@1440.23.1920.1057" timestamp="1620231423611" />
+    <state width="1878" height="523" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1624028126311" />
+    <state width="1398" height="357" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1620149507857" />
+    <state width="1878" height="555" key="GridCell.Tab.0.left/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1620234641915" />
+    <state width="1398" height="385" key="GridCell.Tab.0.right" timestamp="1624031386200">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1398" height="393" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1620321665911" />
+    <state width="1398" height="327" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1620071617934" />
+    <state width="1398" height="328" key="GridCell.Tab.0.right/0.23.1440.806/1440.23.1920.1057@0.23.1440.806" timestamp="1620322475463" />
+    <state width="1398" height="255" key="GridCell.Tab.0.right/0.23.1440.808/1440.23.1920.1057@0.23.1440.808" timestamp="1620339655688" />
+    <state width="1398" height="255" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1623363487592" />
+    <state width="1398" height="385" key="GridCell.Tab.0.right/0.23.1440.811/1440.23.1920.1057@0.23.1440.811" timestamp="1624028901559" />
+    <state width="1398" height="382" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1624028858682" />
+    <state width="1398" height="348" key="GridCell.Tab.0.right/0.23.1440.812/1440.23.1920.1057@0.23.1440.812" timestamp="1620153002825" />
+    <state width="1398" height="385" key="GridCell.Tab.0.right/0.23.1440.814/1440.23.1920.1057@0.23.1440.814" timestamp="1624031386200" />
+    <state width="1398" height="283" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1619893706412" />
+    <state width="1398" height="247" key="GridCell.Tab.0.right/0.23.1440.816/1440.23.1920.1057@0.23.1440.816" timestamp="1620079161909" />
+    <state width="1878" height="354" key="GridCell.Tab.0.right/0.23.1440.816/1440.23.1920.1057@1440.23.1920.1057" timestamp="1623871031126" />
+    <state width="1878" height="348" key="GridCell.Tab.0.right/0.23.1440.822/1440.23.1920.1057@1440.23.1920.1057" timestamp="1620231423613" />
+    <state width="1878" height="523" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1624028126312" />
+    <state width="1398" height="357" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1620149507858" />
+    <state width="1878" height="555" key="GridCell.Tab.0.right/0.23.1440.826/1440.23.1920.1057@1440.23.1920.1057" timestamp="1620234641916" />
+    <state width="1398" height="382" key="GridCell.Tab.1.bottom" timestamp="1624028858685">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1623363477186" />
+    <state width="1398" height="382" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1624028858685" />
+    <state width="1878" height="523" key="GridCell.Tab.1.bottom/0.23.1440.816/1440.23.1920.1057@1440.23.1920.1057" timestamp="1623870806915" />
+    <state width="1878" height="523" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1624028126314" />
+    <state width="1398" height="382" key="GridCell.Tab.1.center" timestamp="1624028858684">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1623363477185" />
+    <state width="1398" height="382" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1624028858684" />
+    <state width="1878" height="523" key="GridCell.Tab.1.center/0.23.1440.816/1440.23.1920.1057@1440.23.1920.1057" timestamp="1623870806914" />
+    <state width="1878" height="523" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1624028126313" />
+    <state width="1398" height="382" key="GridCell.Tab.1.left" timestamp="1624028858684">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1623363477184" />
+    <state width="1398" height="382" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1624028858684" />
+    <state width="1878" height="523" key="GridCell.Tab.1.left/0.23.1440.816/1440.23.1920.1057@1440.23.1920.1057" timestamp="1623870806913" />
+    <state width="1878" height="523" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1624028126313" />
+    <state width="1398" height="382" key="GridCell.Tab.1.right" timestamp="1624028858685">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1398" height="206" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1623363477185" />
+    <state width="1398" height="382" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1624028858685" />
+    <state width="1878" height="523" key="GridCell.Tab.1.right/0.23.1440.816/1440.23.1920.1057@1440.23.1920.1057" timestamp="1623870806915" />
+    <state width="1878" height="523" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1624028126314" />
+    <state x="221" y="65" key="SettingsEditor" timestamp="1619814635722">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="221" y="65" key="SettingsEditor/0.23.1440.806/1440.23.1920.1057@0.23.1440.806" timestamp="1616713243748" />
+    <state x="221" y="65" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1619814635722" />
+    <state x="221" y="66" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1616707231114" />
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2" timestamp="1624303525130">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="320" y="168" key="Vcs.Push.Dialog.v2/0.23.1440.811/1440.23.1920.1057@0.23.1440.811" timestamp="1624303525130" />
+    <state x="497" y="213" key="chooseDestDirectoryDialog" timestamp="1620339402172">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="497" y="213" key="chooseDestDirectoryDialog/0.23.1440.808/1440.23.1920.1057@0.23.1440.808" timestamp="1620339402172" />
+    <state x="479" y="255" width="482" height="346" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1620339403035">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="479" y="255" width="482" height="346" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.808/1440.23.1920.1057@0.23.1440.808" timestamp="1620339403035" />
+    <state x="1953" y="200" width="894" height="881" key="search.everywhere.popup" timestamp="1620156886071">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1953" y="200" width="894" height="881" key="search.everywhere.popup/0.23.1440.821/1440.23.1920.1057@1440.23.1920.1057" timestamp="1620156886071" />
+    <state x="385" y="161" width="670" height="685" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1616707192840" />
+    <state x="558" y="226" key="svn.repositoryBrowser" timestamp="1624303498551">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="558" y="226" key="svn.repositoryBrowser/0.23.1440.811/1440.23.1920.1057@0.23.1440.811" timestamp="1624303498551" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/HelloAccessory_.NET4/HelloAccessory/Provider(Android)_Consumer(Tizen)/Provider/app_SAAgentV2/libs/accessory-v2.6.1/com/samsung/android/sdk/accessory/SAJobService.class</url>
+          <line>78</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

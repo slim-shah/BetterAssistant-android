@@ -1,0 +1,192 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cybernetic87.GAssist"
+4    android:versionCode="20"
+5    android:versionName="0.8.8" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml
+10
+11    <queries>
+11-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:5:4-7:15
+12        <package android:name="com.samsung.accessory" />
+12-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:6:9-57
+12-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:6:18-54
+13    </queries>
+14
+15    <uses-permission android:name="android.permission.BLUETOOTH" />
+15-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:9:5-68
+15-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:9:22-65
+16    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+16-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:10:5-74
+16-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:10:22-71
+17    <uses-permission android:name="com.samsung.accessory.permission.ACCESSORY_FRAMEWORK" />
+17-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:11:5-92
+17-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:11:22-89
+18    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY" />
+18-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:12:5-117
+18-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:12:22-114
+19    <uses-permission android:name="com.samsung.wmanager.ENABLE_NOTIFICATION" />
+19-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:13:5-80
+19-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:13:22-77
+20    <uses-permission android:name="com.samsung.WATCH_APP_TYPE.Companion" />
+20-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:14:5-76
+20-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:14:22-73
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:15:5-67
+21-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:15:22-64
+22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+22-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:16:5-80
+22-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:16:22-77
+23    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+23-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:17:5-81
+23-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:17:22-78
+24    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+24-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:18:5-82
+24-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:18:22-79
+25    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+25-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:19:5-79
+25-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:19:22-76
+26    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+26-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:20:5-77
+26-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:20:22-74
+27
+28    <!-- requestLegacyExternalStorage="true" -->
+29    <application
+29-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:22:5-71:20
+30        android:allowBackup="true"
+30-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:25:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.1.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/201694caaa307dce76a625856f7bc041/core-1.1.0/AndroidManifest.xml:24:18-86
+32        android:debuggable="true"
+33        android:extractNativeLibs="false"
+34        android:icon="@mipmap/round_cmyk"
+34-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:26:9-42
+35        android:label="@string/app_name"
+35-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:27:9-41
+36        android:requestLegacyExternalStorage="true"
+36-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:23:9-52
+37        android:supportsRtl="true"
+37-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:24:9-35
+38        android:testOnly="true"
+39        android:theme="@style/ApplicationStyle" >
+39-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:28:9-48
+40        <activity
+40-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:29:9-45:20
+41            android:name="com.cybernetic87.GAssist.MainActivity"
+41-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:30:13-65
+42            android:screenOrientation="portrait" >
+42-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:31:13-49
+43            <intent-filter>
+43-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:32:13-35:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:33:17-69
+44-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:33:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:34:17-77
+46-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:34:27-74
+47            </intent-filter>
+48            <intent-filter>
+48-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:36:13-44:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:33:17-69
+49-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:33:25-66
+50                <action android:name="android.intent.action.VIEW" />
+50-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:38:17-69
+50-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:38:25-66
+51
+52                <category android:name="android.intent.category.DEFAULT" />
+52-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:40:17-76
+52-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:40:27-73
+53
+54                <data
+54-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:41:17-43:53
+55                    android:host="gassist"
+55-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:42:21-43
+56                    android:scheme="cybernetic87" />
+56-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:43:21-50
+57            </intent-filter>
+58        </activity>
+59
+60        <service
+60-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:47:9-49:72
+61            android:name="com.samsung.android.sdk.accessory.SAJobService"
+61-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:48:13-74
+62            android:permission="android.permission.BIND_JOB_SERVICE" />
+62-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:49:13-69
+63
+64        <!-- SAAgent Providers should be declared as Android Service -->
+65        <service android:name="com.cybernetic87.GAssist.ProviderService" />
+65-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:52:9-76
+65-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:52:18-73
+66
+67        <!-- Receiver must be declared when using Accessory SDK -->
+68        <receiver android:name="com.samsung.android.sdk.accessory.RegisterUponInstallReceiver" >
+68-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:55:9-59:20
+68-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:55:19-95
+69            <intent-filter>
+69-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:56:13-58:29
+70                <action android:name="com.samsung.accessory.action.REGISTER_AGENT" />
+70-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:57:17-86
+70-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:57:25-83
+71            </intent-filter>
+72        </receiver>
+73
+74        <!-- Receiver must be declared when using SASocket -->
+75        <receiver android:name="com.samsung.android.sdk.accessory.ServiceConnectionIndicationBroadcastReceiver" >
+75-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:62:9-66:20
+75-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:62:19-112
+76            <intent-filter>
+76-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:63:13-65:29
+77                <action android:name="com.samsung.accessory.action.SERVICE_CONNECTION_REQUESTED" />
+77-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:64:17-100
+77-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:64:25-97
+78            </intent-filter>
+79        </receiver>
+80
+81        <meta-data
+81-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:68:9-70:62
+82            android:name="AccessoryServicesLocation"
+82-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:69:13-53
+83            android:value="/res/xml/accessoryservices.xml" />
+83-->/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/src/main/AndroidManifest.xml:70:13-59
+84
+85        <activity
+85-->[com.nbsp:materialfilepicker:1.9.1] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/f73c34b9386bb58a82c78d812f8d2e47/jetified-materialfilepicker-1.9.1/AndroidManifest.xml:14:9-17:20
+86            android:name="com.nbsp.materialfilepicker.ui.FilePickerActivity"
+86-->[com.nbsp:materialfilepicker:1.9.1] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/f73c34b9386bb58a82c78d812f8d2e47/jetified-materialfilepicker-1.9.1/AndroidManifest.xml:15:13-77
+87            android:theme="@style/MFP_BaseTheme" >
+87-->[com.nbsp:materialfilepicker:1.9.1] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/f73c34b9386bb58a82c78d812f8d2e47/jetified-materialfilepicker-1.9.1/AndroidManifest.xml:16:13-49
+88        </activity>
+89        <activity
+89-->[gun0912.ted:tedpermission:2.2.2] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7a39984ea4062d077e0660723ce3880a/jetified-tedpermission-2.2.2/AndroidManifest.xml:10:9-14:67
+90            android:name="com.gun0912.tedpermission.TedPermissionActivity"
+90-->[gun0912.ted:tedpermission:2.2.2] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7a39984ea4062d077e0660723ce3880a/jetified-tedpermission-2.2.2/AndroidManifest.xml:11:13-75
+91            android:configChanges="mcc|mnc|locale|keyboard|keyboardHidden|screenLayout|fontScale|uiMode|orientation|screenSize|layoutDirection"
+91-->[gun0912.ted:tedpermission:2.2.2] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7a39984ea4062d077e0660723ce3880a/jetified-tedpermission-2.2.2/AndroidManifest.xml:12:13-144
+92            android:screenOrientation="unspecified"
+92-->[gun0912.ted:tedpermission:2.2.2] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7a39984ea4062d077e0660723ce3880a/jetified-tedpermission-2.2.2/AndroidManifest.xml:13:13-52
+93            android:theme="@style/Theme.Transparent.Permission" />
+93-->[gun0912.ted:tedpermission:2.2.2] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/7a39984ea4062d077e0660723ce3880a/jetified-tedpermission-2.2.2/AndroidManifest.xml:14:13-64
+94        <activity
+94-->[com.google.android.gms:play-services-base:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/d0b414f6bb81828ba78ec6dddf7afa34/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+95            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+95-->[com.google.android.gms:play-services-base:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/d0b414f6bb81828ba78ec6dddf7afa34/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+96            android:exported="false"
+96-->[com.google.android.gms:play-services-base:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/d0b414f6bb81828ba78ec6dddf7afa34/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+97            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+97-->[com.google.android.gms:play-services-base:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/d0b414f6bb81828ba78ec6dddf7afa34/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+98
+99        <meta-data
+99-->[com.google.android.gms:play-services-basement:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/53f18007be047fe0f35496a049357e7a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+100            android:name="com.google.android.gms.version"
+100-->[com.google.android.gms:play-services-basement:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/53f18007be047fe0f35496a049357e7a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+101            android:value="@integer/google_play_services_version" />
+101-->[com.google.android.gms:play-services-basement:17.0.0] /Users/meetshah97/.gradle/caches/transforms-2/files-2.1/53f18007be047fe0f35496a049357e7a/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+102    </application>
+103
+104</manifest>

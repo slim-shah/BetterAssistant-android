@@ -1,0 +1,6 @@
+com/cybernetic87/GAssist/test/BuildConfig.java
+ com.cybernetic87.GAssist.test.BuildConfig
+com/cybernetic87/Gassist/AssistantTest1.java
+ com.cybernetic87.Gassist.AssistantTest1
+ com.cybernetic87.Gassist.AssistantTest1$1
+ com.cybernetic87.Gassist.AssistantTest1$2

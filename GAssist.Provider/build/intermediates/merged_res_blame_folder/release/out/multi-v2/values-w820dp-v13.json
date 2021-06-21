@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/meetshah97/.gradle/caches/transforms-2/files-2.1/54ff209a405ab6ef9fa5a111b248f72d/jetified-FilePicker-v4.0.19/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,101,148,195",
+                        "endColumns": "45,46,46,51",
+                        "endOffsets": "96,143,190,242"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+com/cybernetic87/GAssist/Service.java
+ com.cybernetic87.GAssist.Service
+com/cybernetic87/GAssist/DeviceConfiguration.java
+ com.cybernetic87.GAssist.DeviceConfiguration
+com/cybernetic87/GAssist/ChooseFileFragment.java
+ com.cybernetic87.GAssist.ChooseFileFragment
+ com.cybernetic87.GAssist.ChooseFileFragment$1
+ com.cybernetic87.GAssist.ChooseFileFragment$OnFragmentInteractionListener
+com/cybernetic87/GAssist/AuthenticateFragment.java
+ com.cybernetic87.GAssist.AuthenticateFragment
+ com.cybernetic87.GAssist.AuthenticateFragment$1
+ com.cybernetic87.GAssist.AuthenticateFragment$2
+ com.cybernetic87.GAssist.AuthenticateFragment$GetCredentialsTask
+com/cybernetic87/GAssist/PermissionsFragment.java
+ com.cybernetic87.GAssist.PermissionsFragment
+ com.cybernetic87.GAssist.PermissionsFragment$1
+com/cybernetic87/GAssist/CredentialManager.java
+ com.cybernetic87.GAssist.CredentialManager
+com/cybernetic87/GAssist/MainFragment.java
+ com.cybernetic87.GAssist.MainFragment
+com/cybernetic87/GAssist/BuildConfig.java
+ com.cybernetic87.GAssist.BuildConfig
+com/cybernetic87/GAssist/EmbeddedAssistant.java
+ com.cybernetic87.GAssist.EmbeddedAssistant
+ com.cybernetic87.GAssist.EmbeddedAssistant$1
+ com.cybernetic87.GAssist.EmbeddedAssistant$Builder
+ com.cybernetic87.GAssist.EmbeddedAssistant$ConversationCallback
+ com.cybernetic87.GAssist.EmbeddedAssistant$RequestCallback
+com/cybernetic87/GAssist/MainActivity.java
+ com.cybernetic87.GAssist.MainActivity
+ com.cybernetic87.GAssist.MainActivity$1
+com/cybernetic87/GAssist/Assistant.java
+ com.cybernetic87.GAssist.Assistant
+ com.cybernetic87.GAssist.Assistant$1
+ com.cybernetic87.GAssist.Assistant$2
+com/cybernetic87/GAssist/ProviderService.java
+ com.cybernetic87.GAssist.ProviderService
+ com.cybernetic87.GAssist.ProviderService$LocalBinder
+ com.cybernetic87.GAssist.ProviderService$ServiceConnection

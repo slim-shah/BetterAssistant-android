@@ -1,0 +1,7 @@
+#Fri Feb 12 15:05:14 CST 2021
+base.0=/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/meetshah97/Downloads/GAssist_companion/GAssist.Provider/build/intermediates/dex/release/mergeDexRelease/classes2.dex
